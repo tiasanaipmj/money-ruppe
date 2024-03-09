@@ -1,8 +1,8 @@
 {
-  "name": "tea-convert",
+  "name": "money-ruppe",
   "type": "module",
   "version": "1.0.6",
-  "description": "A simple utility library to format currency and convert numbers to words in Indonesian Rupiah.",
+  "description": "A simple utility library to format currency and convert numbers to words in India.",
   "main": "src/formatCurrency.js",
   "scripts": {
     "start": "nodemon",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Faresapn/tea-first-project.git"
+    "url": "https://github.com/tiasanaipmj/money-ruppe.git"
   },
   "keywords": [
     "currecy",
     "K format",
-    "Indonesian Currency"
+    "india Currency"
   ],
-  "author": "faresapn <faresaprasetyon@gmail.com>",
+  "author": "tiasanaipmj <tiasanaipmj@gmail.com>",
   "license": "MIT",
   "homepage": "",
   "devDependencies": {
