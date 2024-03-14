@@ -1,7 +1,7 @@
 {
   "name": "money-ruppe",
   "type": "module",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A simple utility library to format currency and convert numbers to words in India.",
   "main": "src/formatCurrency.js",
   "scripts": {
@@ -25,6 +25,7 @@
     "mocha": "^10.3.0"
   },
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "converter-money-indonesia": "^1.0.6"
   }
 }
